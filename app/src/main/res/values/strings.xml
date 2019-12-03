@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android111r</string>
+    <string name="txtStr1">誕生日を入力して下さい</string>
+    <string name="btnDateStr">日付選択</string>
+    <string name="btnOKStr">OK</string>
+    <string name="edtTxtStr" />
+</resources>
